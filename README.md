@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**LindaMADU/LindaMADU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Linda
 
-Here are some ideas to get you started:
+Data engineer building real-time pipelines
+with Kafka, Snowflake, and cloud tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Stack
+Python · SQL · Kafka · Snowflake · dbt · Airflow
+
+## Featured projects
+| Project | Stack | Link |
+|---|---|---|
+| Ecommerce Pipeline | Kafka·Snowflake | [→](https://github.com/LindaMADU/...) |
+| NYC Taxi ETL | Airflow·dbt | [→](#) |
+
+Based in Calgary · Open to remote roles
 -->
