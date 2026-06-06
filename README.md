@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Linda MADU 👋</h1>
+<h1 align="center">Hi, I'm Linda M-Okoronkwo 👋</h1>
 <h3 align="center">Data Engineer · Modern Data Stack · Cloud-Native Pipelines</h3>
 
 <p align="center">
