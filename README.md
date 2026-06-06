@@ -89,7 +89,7 @@ Source Systems → Azure Data Factory (Ingest) → Snowflake Raw Layer
 
 <p align="center">
   <em>Open to collaborations · Let's build something powerful with data 🚀</em><br><br>
-  <a href="https://www.linkedin.com/in/LindaMADU">
+  <a href="https://www.linkedin.com/in/linda-m-okoronkwo-584a36b6)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
