@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Linda M-Okoronkwo 👋</h1>
-<h3 align="center">Data Engineer · Modern Data Stack · Cloud-Native Pipelines</h3>
+<h3 align="center">Data professional · Modern Data Stack · Cloud-Native Pipelines</h3>
 
 <p align="center">
   <em>Designing and orchestrating scalable data pipelines that transform raw data into business intelligence.<br>
